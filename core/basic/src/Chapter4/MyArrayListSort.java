@@ -46,6 +46,7 @@ public class MyArrayListSort {
         tigerList.add(new Tiger(10, "tiger2", 50));
         tigerList.add(new Tiger(30, "tiger3", 50));
         Collections.sort(list, new MySalaryComp());
+        Collections.sort(tigerList, new TigerComparator());
         System.out.println("Sorted list entries: ");
         for (Empl e : list) {
             System.out.println(e);
