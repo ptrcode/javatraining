@@ -42,3 +42,5 @@ public class MyVectorClone {
         System.out.println("Cloned vector:" + copy);
     }
 }
+   /* Above example shows how to create exactly same object as available vector object.
+        You can use clone() method to create similar copy of vector. */

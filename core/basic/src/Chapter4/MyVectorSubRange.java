@@ -45,3 +45,5 @@ public class MyVectorSubRange {
         System.out.println("Sub List: " + list);
     }
 }
+    /*You can copy a range of vector content.
+        The method subList() helps us to get sub range from the given vector object. */

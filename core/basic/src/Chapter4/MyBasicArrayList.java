@@ -28,3 +28,8 @@ public class MyBasicArrayList {
         System.out.println("Size of the arraylist is: " + al.size());
     }
 }
+    /*Here we can see example for basic ArrayList operations like creating object for ArrayList,
+        adding objects into ArrayList, accessing objects based on index,
+        searching an object in ArrayList whether it is listed under this instance or not,
+        adding elements at specific index, checking whether the ArrayList is empty or not,
+        getting object index, and finally size of the ArrayList. */

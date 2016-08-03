@@ -51,3 +51,7 @@ public class MyListIterator {
         }
     }
 }
+    /*Using ListIterator, we can iterate all elements of a list in either direction.
+        You can access next element by calling next() method,
+        and also you can access previous element by calling previous() method on the list.
+*/

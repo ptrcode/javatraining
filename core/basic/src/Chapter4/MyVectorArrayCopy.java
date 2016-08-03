@@ -46,3 +46,6 @@ public class MyVectorArrayCopy {
         }
     }
 }
+    /*You can copy all elements of a vector object to an array. By passing an array object to copyInto() method,
+        you can copy content of a vector object to an array.
+*/

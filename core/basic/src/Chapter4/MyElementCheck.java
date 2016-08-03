@@ -47,3 +47,6 @@ public class MyElementCheck {
         System.out.println("Does vector contains all list elements?: " + vct.containsAll(list));
     }
 }
+    /*Above example shows how to find whether a vector contains list of objects or not.
+        The method containsAll() helps us to find the match.
+*/

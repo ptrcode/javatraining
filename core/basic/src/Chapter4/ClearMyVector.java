@@ -43,3 +43,6 @@ public class ClearMyVector {
         System.out.println("After clear vector:" + vct);
     }
 }
+
+    /*Above example shows how to remove all elements from vector at once.
+        You can call clear() method to delete all elements of a vector at one call. */

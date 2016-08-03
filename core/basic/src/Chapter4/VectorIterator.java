@@ -45,3 +45,6 @@ public class VectorIterator {
         }
     }
 }
+    /*ABove example shows how to iterate through vector using iterator object.
+        You can get iterator object by calling iterator() method.
+*/

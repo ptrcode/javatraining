@@ -46,3 +46,9 @@ public class MyEnumeration {
         }
     }
 }
+/*
+A Class that implements Enumeration
+interface provides access to series of elements one at a time.
+You need to call nextElement method to get next element in the series.
+Also hasMoreElements()method gives you status about the availability of next element in the series.
+*/

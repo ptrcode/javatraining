@@ -48,3 +48,7 @@ public class MyVectorNewCollection {
         System.out.println("After Copy: " + vct);
     }
 }
+    /*Above example shows how to copy or create a vector with another collection object
+    In the code we have created an ArrayList and by using addAll() method, we can copy another collection object.
+*/
+

@@ -45,3 +45,6 @@ public class VectorEnnumaratio {
         }
     }
 }
+    /*Above example shows how to iterate through vector using Enumeration object.
+        You can get Enumeration object by calling elements() method.
+*/

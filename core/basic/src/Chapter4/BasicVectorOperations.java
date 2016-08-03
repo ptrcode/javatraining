@@ -51,3 +51,5 @@ public class BasicVectorOperations {
         System.out.println("Is this vector empty? " + vct.isEmpty());
     }
 }
+    /*Above example shows how to create vector object, adding elements to it, getting elements by specifying index, getting elements index,
+        getting first element, getting last element, and is vector is empty or not.0*/
