@@ -1,0 +1,31 @@
+ITERATOR:
+All of the collection classes provides iterator() method to iterate through the collection.
+The iterator() method returns the Iterator object through which you can access the collection elements in an order.
+Enumeration also does the same purpose. The difference between Iterator and Enumerations is:
+Iterators allow the caller to remove elements from the underlying collection during the iteration with well-defined semantics.
+
+Enumerator
+
+A class that implements Enumeration interface provides access to series of elements one at a time.
+You need to call nextElement method to get next element in the series.
+Also hasMoreElements() method gives you status about the availability of next element in the series.
+
+Vector
+The Vector class implements a growable array of objects. Like an array, it contains components that can be accessed using an integer index.
+However, the size of a Vector can grow or shrink as needed to accommodate adding and removing items after the Vector has been created.
+
+ArrayList
+
+ArrayList is a resizable-array implementation of the List interface.
+Implements all optional list operations, and permits all elements, including null.
+In addition to implementing the List interface, this class provides methods to
+manipulate the size of the array that is used internally to store the list.
+(This class is roughly equivalent to Vector, except that it is unsynchronized.)
+
+LinkedList
+
+LinkedList is a linked list implementation of the List interface.
+Implements all optional list operations, and permits all elements (including null).
+In addition to implementing the List interface, the LinkedList class provides uniformly
+named methods to get, remove and insert an element at the beginning and end of the list.
+These operations allow linked lists to be used as a stack, queue, or double-ended queue.
