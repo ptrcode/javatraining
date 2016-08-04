@@ -8,6 +8,7 @@ import java.util.LinkedList;
 
 public class MyPushPopOprLinked {
 
+
     public static void main(String a[]) {
 
         LinkedList<String> arrl = new LinkedList<String>();
@@ -26,5 +27,5 @@ public class MyPushPopOprLinked {
 }
 /*
     Above example shows how to call push() and pop() methods on LinkedList objects.
-        push(): Pushes an element onto the stack represented by this list.
-        pop(): Pops an element from the stack represented by this list. */
+     push(): Pushes an element onto the stack represented by this list.
+     pop(): Pops an element from the stack represented by this list.       */
