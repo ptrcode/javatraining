@@ -1,11 +1,11 @@
 package Chapter5UtilitiesAndBasicAlgos;
 
 /**
-<<<<<<< HEAD
+ <<<<<<< HEAD
  * Created by zubair on 7/8/16.
-=======
+ =======
  * Created by papu bhattacharya on 6/8/16.
->>>>>>> origin/master
+ >>>>>>> origin/master
  */
 
 import java.util.Date;
