@@ -1,4 +1,4 @@
-package Chapter4;
+package Chapter4Collections;
 
 /**
  * Created by zubair on 4/8/16.
