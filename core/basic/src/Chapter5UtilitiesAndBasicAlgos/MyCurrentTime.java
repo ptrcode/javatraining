@@ -1,14 +1,11 @@
 package Chapter5UtilitiesAndBasicAlgos;
 
 /**
- * Created by papu bhattacharya on 6/8/16.
+ * Created by zubair on 7/8/16.
  */
 public class MyCurrentTime {
-
-    public static void main(String a[]) {
-
+    public static void main(String[] args) {
         long millis = System.currentTimeMillis();
-        System.out.println("Current time in millis: " + millis);
+        System.out.println("current time in millis:" + millis);
     }
 }
-
