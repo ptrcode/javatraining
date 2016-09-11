@@ -18,7 +18,7 @@ public class MyPropertyLoad {
             is = new FileInputStream(new File("src/Chapter5UtilitiesAndBasicAlgos/data/sample.properties"));
             prop.load(is);
             System.out.println("db.host: " + prop.getProperty("db.host"));
-            System.out.println("db.user: " + prop.getProperty("db.user"));
+            System.out.println("db.User: " + prop.getProperty("db.user"));
             System.out.println("db.password: " + prop.getProperty("db.password"));
         } catch (FileNotFoundException e) {
             e.printStackTrace();

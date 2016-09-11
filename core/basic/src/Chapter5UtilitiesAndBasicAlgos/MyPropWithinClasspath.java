@@ -31,7 +31,7 @@ public class MyPropWithinClasspath {
 
         MyPropWithinClasspath mpc = new MyPropWithinClasspath();
         System.out.println("db.host: " + mpc.getPropertyValue("db.host"));
-        System.out.println("db.user: " + mpc.getPropertyValue("db.user"));
+        System.out.println("db.User: " + mpc.getPropertyValue("db.user"));
         System.out.println("db.password: " + mpc.getPropertyValue("db.password"));
     }
 

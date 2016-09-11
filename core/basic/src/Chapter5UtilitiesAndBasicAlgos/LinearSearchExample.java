@@ -29,14 +29,14 @@ package Chapter5UtilitiesAndBasicAlgos;
 /* Program: Linear Search Example
  * Written by: Chaitanya from beginnersbook.com
  * Input: Number of elements, element's values, value to be searched
- * Output:Position of the number input by user among other numbers*/
+ * Output:Position of the number input by User among other numbers*/
 
 import java.util.Scanner;
 
 class LinearSearchExample {
     public static void main(String args[]) {
         int counter, num, item, array[];
-        //To capture user input
+        //To capture User input
         Scanner input = new Scanner(System.in);
         System.out.println("Enter number of elements:");
         num = input.nextInt();

@@ -69,7 +69,7 @@ class Empl {
     }
 }
     /*This example gives you how to sort an ArrayList using Comparator.
-        The ArrayList contains user defined objects. By using Collections.sort() method you can sort the ArrayList.
+        The ArrayList contains User defined objects. By using Collections.sort() method you can sort the ArrayList.
         You have to pass Comparator object which contains your sort logic.
         The example sorts the Empl objects based on highest salary.
 */

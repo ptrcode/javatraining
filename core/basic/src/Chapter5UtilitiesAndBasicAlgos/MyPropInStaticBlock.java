@@ -33,7 +33,7 @@ public class MyPropInStaticBlock {
     public static void main(String a[]) {
 
         System.out.println("db.host: " + getPropertyValue("db.host"));
-        System.out.println("db.user: " + getPropertyValue("db.user"));
+        System.out.println("db.User: " + getPropertyValue("db.user"));
         System.out.println("db.password: " + getPropertyValue("db.password"));
     }
 }

@@ -17,5 +17,5 @@ public class MySupressExmp {
     }
 }
 /*
-Incase if you don't want to get any warnings from compiler for the known things, then you can use @SuppressWarnings annotation. For example, you are calling deprecated method, and you know that it is deprecated, to avoid compiler warnings, user @SuppressWarnings annotation.
+Incase if you don't want to get any warnings from compiler for the known things, then you can use @SuppressWarnings annotation. For example, you are calling deprecated method, and you know that it is deprecated, to avoid compiler warnings, User @SuppressWarnings annotation.
 */

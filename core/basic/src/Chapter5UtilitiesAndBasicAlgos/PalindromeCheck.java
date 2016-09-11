@@ -50,7 +50,7 @@ class PalindromeCheck {
     }
 
     public static void main(String[] args) {
-        //For capturing user input
+        //For capturing User input
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the String for check:");
         String string = scanner.nextLine();

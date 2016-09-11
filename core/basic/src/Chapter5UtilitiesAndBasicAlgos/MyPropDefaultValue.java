@@ -31,7 +31,7 @@ public class MyPropDefaultValue {
 
         MyPropDefaultValue mpc = new MyPropDefaultValue();
         System.out.println("db.host: " + mpc.getPropertyValue("db.tables"));
-        System.out.println("db.user: " + mpc.getPropertyValue("db.user"));
+        System.out.println("db.User: " + mpc.getPropertyValue("db.user"));
     }
 
     public String getPropertyValue(String key) {

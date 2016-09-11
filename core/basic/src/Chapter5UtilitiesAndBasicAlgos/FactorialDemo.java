@@ -33,12 +33,12 @@ class FactorialDemo {
     static int output;
 
     public static void main(String args[]) {
-        //Scanner object for capturing the user input
+        //Scanner object for capturing the User input
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number:");
         //Stored the entered value in variable
         int num = scanner.nextInt();
-        //Called the user defined function fact
+        //Called the User defined function fact
         int factorial = fact(num);
         System.out.println("Factorial of entered number is: " + factorial);
     }

@@ -9,7 +9,7 @@ import java.util.Scanner;
 class BinarySearchExample {
     public static void main(String args[]) {
         int counter, num, item, array[], first, last, middle;
-        //To capture user input
+        //To capture User input
         Scanner input = new Scanner(System.in);
         System.out.println("Enter number of elements:");
         num = input.nextInt();
