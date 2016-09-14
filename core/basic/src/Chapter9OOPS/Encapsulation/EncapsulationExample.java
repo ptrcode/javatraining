@@ -4,14 +4,14 @@ package Chapter9OOPS.Encapsulation;
  * Created by papu bhattacharya on 12/8/16.
  */
 class CricketScorer {
-    private int score = 0;
+    private int score1 = 0;
 
     public int getScore() {
-        return score;
+        return score1;
     }
 
     public void addRuns(int score) {
-        this.score = this.score + score;
+        this.score1 = this.score1 + score;
     }
 
     public void six() {
@@ -27,7 +27,7 @@ class CricketScorer {
     }
 
     public void printScore() {
-        System.out.println("Score : " + score);
+        System.out.println("Score : " + score1);
     }
 
 }

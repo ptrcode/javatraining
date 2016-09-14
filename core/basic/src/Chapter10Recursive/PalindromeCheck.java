@@ -21,7 +21,7 @@
  *
  */
 
-package Chapter5UtilitiesAndBasicAlgos;
+package Chapter10Recursive;
 
 /**
  * Created by papu bhattacharya on 3/8/16.

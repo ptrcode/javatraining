@@ -3,8 +3,8 @@ package Chapter9OOPS.Encapsulation;
 /**
  * Created by papu bhattacharya on 12/8/16.
  */
+//very bad way--
 /*
-very bad way--
 class BadScorer {
     int score = 0;
 }
