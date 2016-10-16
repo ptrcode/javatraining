@@ -1,0 +1,11 @@
+Category:1985 horror films
+{{Year by category
+|m=1
+|c=9
+|d=8
+|y=5
+|cat=horror films
+|sortkey=horror
+|parent=1985 films
+|subcat=1980s horror films
+}}

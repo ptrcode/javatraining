@@ -1,0 +1,27 @@
+Computer Networks: The Heralds of Resource Sharing
+  Steven King and directed/edited by Peter Chvany, about ARPANET. It features many of the most important names in computer networking.
+
+Speaking parts:
+* Fernando J. Corbato (Corby), more links here: (voice 0:45-1:15, face 1:00-1:15, 15:10-15:40) Turing Award-winning implementer of multitasking operating systems.
+* J.C.R. Licklider: (1:00-1:40), and many times throughout the film
+* Lawrence G. Roberts: (voice 1:40-2:25) SIGCOMM Award winner. Robert Kahn: (2:25-2:35, 3:15-6:25, 6:55-) Turing Award winner.
+* Frank Heart: (2:35-3:15, 6:25-6:55) William R. Sutherland (Bert): (13:50-15:10)
+* Richard W. Watson: (17:34-18:30, 25:05-25:15) Dick is one of the key mass storage researchers of the last thirty years. John R. Pasta: (18:30-19:25)
+* Donald W. Davies: (19:25-21:55)
+* George W. Mitchell: (21:55-24:05, voice only)
+
+Non-speaking: Daniel L. Murphy: (Behind the titles, several other times, best about 15:44)
+
+Unidentified:
+* (8:27-8:32, with beard and glasses): previously misidentified as Jon Postel
+
+ 
+
+== References ==
+* Media and urban space: understanding, investigating and approaching mediacity, Frank Eckardt, 2008. ISBN 3-86596-142-8.
+*   at the Internet Archive
+
+ 
+ 
+ 
+ 

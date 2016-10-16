@@ -1,0 +1,107 @@
+Stars in Shorts
+{{Infobox film
+| name = Stars In Shorts
+| image = Stars in Shorts.jpg
+| caption =
+| director = {{plainlist|
+* Jacob Chase
+* Robert Festinger
+* Chris Foggin
+* Rupert Friend
+* Benjamin Grayson
+* Jay Kamen
+* Neil LaBute
+}}
+| producer = {{plainlist|
+* Dawn Bridgewate
+* Andrew Carlberg
+* Jessica Cole
+* Chris Croucher
+* Rupert Friend
+* Benjamin Grayson
+* Anthony Haas
+* Tim Harms
+* James L. Honore
+* Reggie Joseph
+* Jay Kamen
+* Tatiana Kelly
+* Rachel Kennedy
+* Marjorie Mann
+* Roberta Marie Munroe
+* Leif Nelson
+* Carter Pilcher
+* Trenton Waterson
+}}
+| writer = {{plainlist|
+* Travis Crim
+* Chris Croucher
+* Robert Festinger
+* Rupert Friend
+* Benjamin Grayson
+* Jay Kamen
+* Neil LaBute
+}}
+| starring = {{plainlist|
+* Colin Firth
+* Lily Tomlin
+* Keira Knightley
+* Kenneth Branagh
+}}
+| music = 
+| cinematography = 
+| editing = 
+| studio = 
+| distributor = Shorts HD
+| released = September 28, 2012
+| runtime = 
+| country = 
+| language = English
+| budget = 
+| gross =
+}}
+ compilation of seven movie-star-filled short films by various directors.    
+
+==Plot==
+The seven shorts are:
+{| class=wikitable
+!                          || Actors
+! Director                 || Writer           || Duration
+|-
+| "Sexting"                || Julia Stiles, Marin Ireland, Jamie Anderson
+| Neil LaBute          || Neil LaBute      || 8:00
+|-
+| "After School Special"   || Sarah Paulson, Wes Bentley, Sam Cohen
+| Jacob Chase              || Neil LaBute      || 9:00
+|- Philip Jackson, Tom Hiddleston, John MacMillan
+| Chris Foggin             ||                  || 12:00
+|-
+| "Prodigal"               || Kenneth Branagh, Jennifer Morrison, Jessica Pettyjohn, Travis Crim, Taylor Kinney, Winter Ave Zoli
+| Benjamin Grayson         || Benjamin Grayson and Travis Crim || 25:00
+|-
+| "Not Your Time"          || Jason Alexander, Val Pettiford, Kathy Najimy, Sally Kirkland, Jillian Armenante, Jack Rapke, Amy Pascal, Joe Roth, Amy Heckerling, Stuart Cornfield
+| Jay Kamen                || Jay Kamen        || 25:00
+|-
+| "Steve (film)|Steve" || Colin Firth, Keira Knightley, Tom Mison
+| Rupert Friend        || Rupert Friend    || 16:00
+|-
+| "The Procession"         || Lily Tomlin, Jesse Tyler Ferguson, Lucy Punch
+| Robert Festinger         || Robert Festinger || 12:26
+|}
+
+==See also==
+*Shorts HD
+
+==References==
+ 
+
+== External links ==
+* 
+* 
+* 
+
+ 
+ 
+ 
+
+
+ 

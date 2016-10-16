@@ -1,0 +1,61 @@
+In the Realm of the Hackers
+ 
+ 
+{{Infobox film
+| name           = In The Realm of the Hackers
+| image          = Hackers_poster.jpg
+| image_size     =
+| caption        = A wild ride that takes us headlong into the risky but intoxicating world of the computer underground.
+| director       = Kevin Anderson
+| producer       = Franco di Chiera
+| writer         = Kevin Anderson
+| narrator       = Robert Menzies
+| starring       = Dan Spielman, Nathan Phillips, Ernie Gray, Suelette Dreyfus
+| music          = Al Mullins, Janine de Lorenzo
+| cinematography = Kevin Anderson
+| editing        = Uri Mizrahi
+| distributor    = Film Australia
+| released       =  
+| runtime        = 55 minutes
+| country        = Australia
+| language       = English 
+| budget         = AU$400,000
+| preceded_by    =
+| followed_by    =
+| website        = www.youtube.com/watch?v=0UghlW1TsMA
+}}
+ Kevin Anderson about the prominent hacker community, centered in Melbourne, Australia in the late 1980s until early 1990. The storyline is centered on the Australian teenagers going by the hacker names "Electron (computer hacker)|Electron" and "Nahshon Even-Chaim|Phoenix", who were members of an elite computer hacking group called The Realm and hacked into some of the most secure computer networks in the world, including those of the US Naval Research Laboratory, Lawrence Livermore National Laboratory, a government lab charged with the security of the US nuclear stockpile, and NASA. The film runs for 55 minutes and was inspired by the book Underground (Suelette Dreyfus book)|Underground, by Melbourne-based writer and academic Suelette Dreyfus. 
+
+==Film credits==
+*Written and directed by Kevin Anderson
+*Cinematography by Kevin Anderson
+*Executive Producer: Franco di Chiera John Moore, Suelette Dreyfus (Associate Producer)
+*Film Australia Executive Producer Franco di Chiera
+*Produced with the assistance of Film Victoria.
+*Produced with the assistance of The Australian Broadcasting Corporation
+
+==See also==
+*Nahshon Even-Chaim
+* 
+*Hacktivism
+
+==References==
+ 
+
+==External links==
+ 
+* 
+* 
+* 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 

@@ -1,0 +1,43 @@
+Przeklęte oko proroka
+<!-- Hide infobox until needed
+{{Infobox film
+| name           =
+| image          = 
+| image size     = 
+| alt            = 
+| caption        = 
+| director       = 
+| producer       = 
+| writer         = 
+| narrator       = 
+| starring       = 
+| music          = 
+| cinematography = 
+| editing        = 
+| studio         = 
+| distributor    = 
+| released       =
+| runtime        = 
+| country        = 
+| language       = 
+| budget         = 
+| gross          = 
+| preceded by    = 
+| followed by    = 
+}}
+--->  Polish historical film. It was released in 1984. 
+
+==References==
+ 
+
+==External links==
+*  
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 

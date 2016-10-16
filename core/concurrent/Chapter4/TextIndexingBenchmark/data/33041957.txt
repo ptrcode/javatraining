@@ -1,0 +1,101 @@
+Interim (film)
+{{infobox film
+ | name=Interim
+<!-- | image=
+ | image_size=
+ | border=
+ | alt=
+ | caption=-->
+ | director=Stan Brakhage
+ | starring=Walter Newcomb Janice Hubka
+ | music=James Tenney
+ | cinematography=Stan Phillips
+ | distributor=Canyon Cinema
+ | released= 
+ | runtime=  minutes
+ | country=United States
+ | language=English
+}} expansive filmography has made him an influential figure in experimental film.
+
+==Plot==
+The film contains no dialogue, starring only a man and a woman, who meet as if by chance and walk into the countryside together where they stop and kiss. They then return to town before parting again.
+
+==Production==
+The film was shot in black-and-white 16 mm film. Around the time of production, Brakhage was heavily influenced by Italian neorealism ( ;  ).
+ piano score for the film at the age of eighteen   . In a foreword published by Brakhage, he cites a fault between himself and Tenneys mother for convincing Tenney to become a musician, shortly before composing the soundtrack for Interim  .
+
+==Release== 16 mm prints of the film are distributed by Canyon Cinema both for rent and for sale to institutions. The organization is also a licensee for many of Brakhages filmography  .
+
+==References==
+* {{cite journal
+ | title=James Tenney
+ | last=Brakhage
+ | first=Stan
+ | journal=Perspectives of New Music
+ | year=1987
+ 
+ | volume=25
+ | issue=1–2
+ | pages=470
+ | doi=10.2307/833113
+ | jstor=833113
+ | ref=harv}}
+* {{cite web
+ | url=http://canyoncinema.com/catalog/film/?i=386
+ | title=Interim
+ | publisher=Canyon Cinema
+ | work=Catalog
+ | accessdate=9 October 2013
+ | ref= }}
+* {{cite news
+ | url=http://www.chicagoreader.com/chicago/maverick-ensemble-festival/Film?oid=1056954
+ | title=Maverick Ensemble Festival
+ | work=Chicago Reader
+ | date=7 July 2003
+ | accessdate=9 October 2013
+ | last=Camper
+ | first=Fred
+ 
+ | ref=harv}}
+* {{cite web
+ | url=http://www.fandor.com/blog/at-nineteen-a-visionary-in-the-making-stan-brakhages-interim
+ | title=At Nineteen, A Visionary in the Making: Stan Brakhages Interim Fandor
+ | work=Theater Critics Choice
+ | date=22 November 2010
+ | accessdate=9 October 2013
+ | last=Rowin
+ | first=Michael Joshua
+ 
+ | ref=harv}}
+* {{cite news
+ | url=http://www.chicagoreader.com/chicago/maverick-ensemble/Content?oid=912599
+ | title=Maverick Ensemble
+ | work=Chicago Reader
+ | date=10 July 2003
+ | accessdate=9 October 2013
+ | last=Shen
+ | first=Ted
+ | ref=harv}}
+
+==Further reading==
+* {{cite book
+ | url=http://books.google.com/books?id=6-EQ56vka6EC
+ | title=Masterpieces of Modernist Cinema
+ | publisher=Indiana University Press
+ | last=Perry
+ | first=Ted
+ 
+ | year=2006
+ | pages=167
+ | isbn=9780253347718
+ | ref=harv}}
+
+==External links==
+*  
+
+ 
+ 
+ 
+ 
+ 
+ 

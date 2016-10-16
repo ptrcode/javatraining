@@ -1,0 +1,41 @@
+Řeka čaruje
+ 
+<!-- Hide infobox until needed
+{{Infobox film
+| name           =
+| image          = 
+| image size     = 
+| alt            = 
+| caption        = 
+| director       = 
+| producer       = 
+| writer         = 
+| narrator       = 
+| starring       = 
+| music          = 
+| cinematography = 
+| editing        = 
+| studio         = 
+| distributor    = 
+| released       =
+| runtime        = 
+| country        = 
+| language       = 
+| budget         = 
+| gross          = 
+| preceded by    = 
+| followed by    = 
+}}
+---> 
+ Czech drama film. It was released in 1945.
+
+==External links==
+*  
+
+ 
+ 
+ 
+ 
+
+
+ 
