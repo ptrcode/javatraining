@@ -1,0 +1,10 @@
+Notes
+
+//http://www.programming-free.com/2014/04/spring-mvc-consuming-restful-web-services.html
+//@RequestMapping("/dispUser/{userid}")
+//public ModelAndView dispUser(@PathVariable("userid") int userid) { 
+//RestTemplate restTemplate = new RestTemplate();
+//String url="http://localhost:8080/SpringServiceJsonSample/service/user/{userid}";
+//User user=restTemplate.getForObject(url, User.class,userid);
+//    return new ModelAndView("dispUser", "user", user);
+//}

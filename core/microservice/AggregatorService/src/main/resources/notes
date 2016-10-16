@@ -1,0 +1,32 @@
+#https://github.com/bijukunjummen/spring-cloud-ping-pong-sample/blob/master/sample-eureka/src/main/resources/application.yml
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    
+    
+    
+    -
+server:
+  port: 8080
+
+samplepong:
+  ribbon:
+    DeploymentContextBasedVipAddresses: sample-pong
+    ReadTimeout: 5000
+    MaxAutoRetries: 2
+
+samplepongdirect:
+  ribbon:
+    DeploymentContextBasedVipAddresses: sample-pong
+    listOfServers: localhost:8082
+    ReadTimeout: 5000
+    MaxAutoRetries: 2
+
+another:
+  key: anotherkeyvalue
